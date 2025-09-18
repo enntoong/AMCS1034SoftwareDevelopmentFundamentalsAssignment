@@ -1,0 +1,3 @@
+venue,room,date,start,end,pax,owner_id,owner_name,members
+
+Library,Discussion Room B,2025-09-18,10:30 AM,12:00 PM,4,1000002,LAI,1000001|TAN; 1000003|LOW; 1000004|ET

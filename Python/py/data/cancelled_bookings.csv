@@ -1,0 +1,5 @@
+venue,room,date,start,end,pax,owner_id,owner_name,members
+Library,Presentation Room A,2025-09-17,8:00 AM,8:30 AM,3,0000003,LAI JEN FENG,0000002|ET; 0000001|LOW ENN TOONG
+Library,Individual Study Room,2025-09-18,10:30 AM,11:30 AM,1,1000002,LAI,
+Library,Discussion Room B,2025-09-19,9:00 AM,11:30 AM,4,1000002,LAI,1000001|TAN; 1000003|LOW; 1000004|ET
+Faculty Block B,Discussion Room D,2025-09-17,8:00 PM,9:00 PM,5,1000002,LAI,1000001|TAN; 1000003|LOW; 1000004|ET; 1000005|JF
